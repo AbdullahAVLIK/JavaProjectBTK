@@ -2,7 +2,7 @@ package day2022_09_18;
 
 import java.util.Arrays;
 
-public class Arrays01 {
+ public   class Arrays01 {
     public static void main(String[] args) {
         String ogr1 = " engin";
         String ogr2 = " engin1";
