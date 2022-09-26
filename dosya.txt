@@ -1,0 +1,14 @@
+Bunu dosyaya yazdir
+S9: Java da equals () ve = = işareti arasındaki fark nedir?
+C9: equals () operatörü primitive dataları ve Objectleri karşılaştırmak için kullanılır.
+== ise iki tane Object i karşılaştırmak için kullanılır.
+Aciklama: (==) ve Equals() methodları’nın ikisi de farklı 2 değeri karşılaştırmak için kullanılır. (==) operator’ü 2 nesneyi karşılaştırırken, Equals() methodu nesnenin içerdiği string’i karşılaştırır. Yani kısaca (==) operatörü 2 nesnenin referans değerlerini karşılaştırırken Equals() methodu sadece içeriği karşılaştırır.
+
+Url: https://www.youtube.com/watch?v=jT06ibYdEXo
+
+
+Q10: Java’da Heap ve Stack Memory arasındaki farklar nelerdir?
+C10: Heap hafızası bir Application in tüm parçaları tarafından kullanılır. Objectler Heap
+içinde depolanır ve herkesçe genel kullanıma müsaittir. Stack hafıza ise sadece bir
+yürütme dizisi tarafından kullanılır ve diğerleri tarafından asla kullanılamaz.
+Aciklama: Stack ve Heap Arasındaki Farklar
